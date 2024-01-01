@@ -1,0 +1,38 @@
+[{
+    "Name":"Bina",
+    "Email":"Test@gmail.com",
+    "Password":"Test@123",
+    "Company":"Frost",
+    "Website":"Frost.com",
+    "City":"Kathmandu",
+    "Address":"Swoyambhu",
+    "Address2":"Dallu",
+    "State":"State1",
+    "ZipCode":"1234",
+    "expected":"Thanks for contacting us, we will get back to you shortly."
+},
+{
+    "Name":"Bina",
+    "Email":"Testgmailcom",
+    "Password":"Test@123",
+    "Company":"Frost",
+    "Website":"Frost.com",
+    "City":"Kathmandu",
+    "Address":"Swoyambhu",
+    "Address2":"Dallu",
+    "State":"State2",
+    "ZipCode":"4321"
+},
+{
+    "Name":"#",
+    "Email":"TEST@.COM",
+    "Password":"#",
+    "Company":"%",
+    "Website":"&",
+    "City":"#",
+    "Address":"$",
+    "Address2":"!",
+    "State":"&",
+    "ZipCode":"v"
+}
+]
