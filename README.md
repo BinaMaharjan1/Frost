@@ -1,12 +1,12 @@
 # Automation of Input Form Submit
 
-I have automated the Input Form Submit Form from "https://www.lambdatest.com/selenium-playground/" URL  , and tested three test cases ,One Postive and Two Negative Test Cases.
+I have automated the Input Form Submit Form from "https://www.lambdatest.com/selenium-playground/"   Web Page.
 
 To run this file in your side ,follow following steps.
 
 1) Download or pull the code in your Visual Studio Code.
 
-2) In terminal , give the directory path where the file has been kept.
+2) In terminal , give the file path where the file has been kept.
 
     For Example :- D:\Downloads\AutomationCypress> 
 
