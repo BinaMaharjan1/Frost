@@ -4,13 +4,25 @@ I have automated the Input Form Submit Form from "https://www.lambdatest.com/sel
 
 To run this file in your side ,follow following steps.
 
-1) Download or pull the code in your Visual Studio Code.
+1) Download the zip file or clone the code in your desired directory.
+   
+3) To clone a git repository, you need to:
+   
+=> Find the main page of the repository on GitHub.com and click Code.
 
-2) In terminal , give the file path where the file has been kept.
+=>Copy the URL for the repository.
 
-    For Example :- D:\Downloads\AutomationCypress> 
+=>Open a terminal or command line on your local machine.
 
-3) You can open Cypress from your project root one of the following ways:
+=>Change the current working directory to the location where you want the cloned directory.
+
+=>Type git clone, and then paste the URL you copied earlier.
+
+3) After that In Visual Studio Code terminal , give the file path where the file has been kept.
+
+    For Example :- D:\Downloads\Frost> 
+
+4) You can open Cypress from your project root one of the following ways:
 
 ```bash
 npx cypress open
