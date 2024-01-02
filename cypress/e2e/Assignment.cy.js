@@ -4,6 +4,7 @@ describe('assignment',()=>{
       it('Data driven Testing',()=>{
       
         cy.visit("https://www.lambdatest.com/selenium-playground");
+        cy.wait(2500)
         cy.get(':nth-child(20) > .text-black').click()
         cy.get('#name').type(JsonData.Name)
         cy.get('#inputEmail4').type(JsonData.Email)
@@ -17,6 +18,7 @@ describe('assignment',()=>{
         cy.get('#inputAddress2').type(JsonData.Address2)
         cy.get('#inputState').type(JsonData.State)
         cy.get('#inputZip').type(JsonData.ZipCode)
+        cy.wait(2500)
         cy.get('.bg-lambda-900').click() 
         if(JsonData.State=='State1' && JsonData.ZipCode=='1234')
         {
