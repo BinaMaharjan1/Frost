@@ -2,6 +2,22 @@
 
 I have automated the Input Form Submit Form from "https://www.lambdatest.com/selenium-playground/"   Web Page.
 
+Versions :-
+
+This project utilizes the following versions:
+
+<li> Node.js: v20.10.0
+
+<li> npm: 10.2.3
+
+<li> Cypress package version: 13.6.2
+
+<li> Cypress binary version: 13.6.2
+
+<li> Electron version: 25.8.4
+
+<li> Bundled Node version:18.15.0
+
 To run this file in your side ,follow following steps.
 
 1) Download the zip file or clone the code in your desired directory.
